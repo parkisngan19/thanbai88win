@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Thanbai88 - Nền Tảng Uy Tín, Trải Nghiệm Cùng Với Chất Lượng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Thanbai88 <https://thanbai88.win/>`_ là một sân chơi trực tuyến uy tín, hoạt động hợp pháp với giấy phép từ Cơ quan Quản lý Trò chơi Philippines (PAGCOR). Thành lập năm 2015, Thanbai88 nổi bật với các sản phẩm giải trí đa dạng như thể thao, live casino, game bài, bắn cá, nổ hũ và xổ số. Thanbai88 cam kết bảo mật thông tin cao với công nghệ mã hóa SSL 128-bit. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thanbai88 cung cấp nhiều cơ hội chơi game hấp dẫn, chương trình khuyến mãi như thưởng nạp đầu lên đến 100%, hoàn trả hàng tuần và thưởng giới thiệu bạn bè. Với hệ thống bảo mật mạnh mẽ và đối tác game uy tín như Evolution Gaming, Microgaming, và Playtech, Thanbai88 là lựa chọn tin cậy cho người chơi chơi game trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 77 Đ. Cây Cám, Khu phố 11, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0318764417. 
 
-.. toctree::
+Email: info@thanbai88.win. 
 
-   usage
-   api
+Website: https://thanbai88.win/ 
+
+#thanbai88 #trangchuthanbai88 #dangkythanbai88 #dangnhapthanbai88 #linkthanbai88
